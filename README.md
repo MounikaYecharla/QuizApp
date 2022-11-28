@@ -13,6 +13,10 @@ The app consists of 3 screens. On the first screen, the user informs his name, b
 
 If you want to see this app running, click on image below to take a look on a demo illustrated in a YouTube video:
 
+
+https://user-images.githubusercontent.com/119325299/204329528-a6537c42-7dae-4871-b181-8befdf2592e9.mp4
+
+
 [![Screenshot Video](/screenshots/screenshot.png)](https://youtu.be/92zOdc_qVK4)
 
 ## Author
